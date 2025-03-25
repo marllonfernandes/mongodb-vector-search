@@ -1,0 +1,17 @@
+{
+  "name": "mongo-vector-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --env-file .env index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "mongodb": "^6.15.0",
+    "openai": "^4.89.0"
+  }
+}
